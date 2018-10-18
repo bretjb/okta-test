@@ -47,5 +47,9 @@
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
+  },
+  "dependencies": {
+    "@okta/okta-signin-widget": "^2.13.0",
+    "ember-auto-import": "^1.2.13"
   }
 }
